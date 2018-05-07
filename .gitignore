@@ -1,0 +1,9 @@
+*.pyc
+.python-version
+*.orig
+*.swp
+*.swo
+.*/
+*.idea
+static/combo/*
+nohup.out
